@@ -1,0 +1,9 @@
+amenity,places,name,cuisine,opening_hours,phone,website,all_five
+restaurant,3168,3109,1569,476,441,272,88
+fast_food,1724,1689,941,105,49,68,17
+cafe,1115,1099,441,121,58,108,16
+pub,240,238,15,27,26,32,1
+ice_cream,195,192,50,20,11,16,1
+bar,191,184,0,12,9,7,0
+food_court,48,44,0,9,0,1,0
+all,6681,6555,3016,770,594,504,123

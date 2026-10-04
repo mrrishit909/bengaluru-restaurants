@@ -1,0 +1,19 @@
+key,value
+places,6681
+"mean nearest-neighbour distance, m",59.63046400236779
+"median nearest-neighbour distance, m",23.7558387410004
+"expected mean distance for uniform random points, m",164.03753530234127
+"Clark-Evans R, analytic",0.3635171906994429
+Clark-Evans z,-99.52640039502857
+"A uniform: mean of the simulated mean distances, m",165.30905669215895
+"A uniform: smallest simulated mean, m",163.38619361992386
+"A uniform: largest simulated mean, m",166.82145133382159
+A uniform: Clark-Evans R against the simulations,0.3607210953566358
+"A uniform: mean of the simulated median distances, m",154.52119542284944
+A uniform: simulated sets with a mean distance at or below the data's,0
+"B same count per 1 km cell: mean of the simulated mean distances, m",115.02469045868817
+"B same count per 1 km cell: smallest simulated mean, m",113.75478579832591
+"B same count per 1 km cell: largest simulated mean, m",116.44193141492505
+B same count per 1 km cell: Clark-Evans R against the simulations,0.5184144705330412
+"B same count per 1 km cell: mean of the simulated median distances, m",83.9643973125342
+B same count per 1 km cell: simulated sets with a mean distance at or below the data's,0

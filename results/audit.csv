@@ -1,0 +1,26 @@
+check,value
+elements returned by Overpass,6682
+nodes,6439
+ways,243
+dropped: centre outside the boundary polygon,1
+places analysed,6681
+boundary rings,1
+boundary vertices,4980
+"area, km2 (shoelace)",719.0977562930988
+"area, km2 (250 m raster)",718.8125
+centre latitude,12.9767936
+centre longitude,77.590082
+places tagged restaurant,3168
+places tagged fast_food,1724
+places tagged cafe,1115
+places tagged pub,240
+places tagged ice_cream,195
+places tagged bar,191
+places tagged food_court,48
+without a name,126
+cuisine values with a comma (wrong separator),3
+pairs with the same name within 50 m,47
+of which a node and a way,6
+places in such a pair,88
+places on the same spot as another (distance 0),11
+places with a brand or brand:wikidata tag,893

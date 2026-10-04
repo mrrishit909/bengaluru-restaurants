@@ -1,0 +1,17 @@
+key,value
+occupied 1 km cells,489
+cells in the busiest 5%,25
+places in the busiest 5% of cells,2194
+places in the busiest cell,261
+places in the busiest 10 cells,1301
+"median distance of a place from the centre, m",7039.749936095969
+"median distance of the area from the centre, m",10696.2055054463
+places within 5 km of the centre,1580
+"area within 5 km of the centre, km2",78.5
+places with a cuisine tag,3016
+distinct cuisine values,188
+cuisine values used by one place only,80
+cuisine tags in all (a place may have several),3701
+chain places with a brand tag,817
+brand-tagged places outside the chains,75
+"names with a brand tag on at least half of their places, among chains",40
