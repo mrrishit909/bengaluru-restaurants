@@ -7,7 +7,7 @@ Two polite Overpass queries (descriptive User-Agent), nothing else:
      (admin_level 7, operated by the Greater Bengaluru Authority), with tags and, for ways, the centre Overpass computes (`out center`);
   2. the geometry of that same relation (its outer and inner rings), used as the study area, to measure its size and to place random points.
 OSM changes every minute, so a rerun returns slightly different data: results/pull.json records the OSM database timestamp of each answer and the checksums.
-Overpass usage policy (wiki.openstreetmap.org/wiki/Overpass_API): under 10,000 queries and 1 GB a day is fine for a one-off; this uses 2 queries.
+Overpass usage policy (wiki.openstreetmap.org/wiki/Overpass_API): under 10,000 queries and 1 GB a day is fine for a one-off; each run uses 2 queries.
 robots.txt of overpass-api.de disallows /api/ for generic crawlers; the usage policy above is what governs the interpreter, which is meant to be queried.
 Licence: data (c) OpenStreetMap contributors, Open Database Licence (ODbL) 1.0, https://www.openstreetmap.org/copyright. Cite: "OpenStreetMap contributors".
 Not committed: data/ (the raw JSON). Committed: results/ (aggregates only: counts, shares, distances; no names of places, no coordinates of single places).
