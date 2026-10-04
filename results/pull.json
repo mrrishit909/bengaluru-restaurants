@@ -1,0 +1,19 @@
+{
+  "pulled": "2026-10-04",
+  "files": {
+    "food_places.json": {
+      "url": "https://overpass-api.de/api/interpreter",
+      "query": "[out:json][timeout:300];area(3607902476)->.a;(node[\"amenity\"~\"^(restaurant|cafe|fast_food|bar|pub|food_court|ice_cream)$\"](area.a);way[\"amenity\"~\"^(restaurant|cafe|fast_food|bar|pub|food_court|ice_cream)$\"](area.a););out center tags;",
+      "bytes": 1945200,
+      "sha256": "c23fb5000fd2ccfa92a21d5cc34ba5a74146fb24eed390680124c0c27a4ea954",
+      "osm_base": "2026-10-04T05:43:21Z"
+    },
+    "boundary.json": {
+      "url": "https://overpass-api.de/api/interpreter",
+      "query": "[out:json][timeout:300];rel(7902476);out geom;",
+      "bytes": 264024,
+      "sha256": "fad3b8a34486c57d56e7e10cff4b8693c13a4b534371a11d89e1952313d89642",
+      "osm_base": "2026-10-04T05:43:21Z"
+    }
+  }
+}
